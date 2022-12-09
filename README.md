@@ -19,10 +19,12 @@ For all tests a Chrome browser is used.
 Run commands in console by using a language parameter
 ### Spanish
 pytest --language=es test_items.py
+### French
+pytest --language=fr test_items.py
 ### English
-pytest --language=es test_items.py
+pytest --language=en test_items.py
 ### Russian
-pytest --language=es test_items.py
+pytest --language=ru test_items.py
 ### Without any parameters a default English language is used
 pytest test_items.py
  
