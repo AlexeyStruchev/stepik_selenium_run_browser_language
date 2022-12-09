@@ -9,7 +9,7 @@ must be returned.
 The lesson is: https://stepik.org/lesson/237240/step/10?unit=209628
 
 ## Automated libraries installation
-After cloning the project from git, all nessesary libraries can be installed in
+After cloning the project from git, all necessary libraries can be installed in
 console by using the command:
 
 pip install -r requirements.txt
