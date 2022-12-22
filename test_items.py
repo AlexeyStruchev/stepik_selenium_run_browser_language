@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 link = " http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
 
-def test_add_to_basket_button_is_present(browser):
+def test_add_to_basket_button_exists(browser):
     """
     If the button is not found code execution is stopped and assert is not checked.
     To prevent this behavior Find_elements method is used.

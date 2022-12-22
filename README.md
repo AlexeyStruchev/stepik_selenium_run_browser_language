@@ -7,9 +7,10 @@ in accept-language header in order a server can determine which page language
 must be returned.
 
 The lesson is: https://stepik.org/lesson/237240/step/10?unit=209628
-
-## Automated libraries installation
-After cloning the project from git, all necessary libraries can be installed in
+## Pycharm project configuration
+After cloning the project from git, add 3.11 Python interperter with virtual environment. 
+### Automated libraries installation
+All necessary libraries can be installed in
 console by using the command:
 
 pip install -r requirements.txt
