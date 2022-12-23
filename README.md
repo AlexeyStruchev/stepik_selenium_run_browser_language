@@ -8,10 +8,9 @@ must be returned.
 
 The lesson is: https://stepik.org/lesson/237240/step/10?unit=209628
 ## Pycharm project configuration
-After cloning the project from git, add 3.11 Python interperter with virtual environment. 
-### Automated libraries installation
-All necessary libraries can be installed in
-console by using the command:
+After cloning the project from git perform steps:
+- add 3.11 Python interperter with virtual environment.
+- install all necessary libraries using a terminal command:
 
 pip install -r requirements.txt
 
